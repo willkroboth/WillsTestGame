@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B4698B9E-3317-C962-3AEF-8525D030F1D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GUI/TestGameHome/Bush.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Modes/BirdRampMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUI/TestGameHome/Bush.cs" Line="86" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GUI" expanded="True">
+                  <Node name="TestGameHome" expanded="True">
+                    <Node name="Bush.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Modes" expanded="True">
+                  <Node name="SceneModes" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestGame PreferredExecutionTarget="348bc488-2527-4ff8-98dc-2d0bf69ba58a" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

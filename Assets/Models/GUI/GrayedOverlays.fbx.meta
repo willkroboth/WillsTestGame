@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 92594809dfe22e44ca05a86ba57db7d6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cabin_Grayed_mesh
+    100002: FireBellyBox_Grayed_mesh
+    100004: //RootNode
+    100006: Headquarters_Grayed_mesh
+    100008: ShootinRange_Grayed_mesh
+    100010: Swamp_Grayed_mesh
+    100012: Warehouse_Grayed_mesh
+    100014: WeaponsLab_Grayed_mesh
+    400000: Cabin_Grayed_mesh
+    400002: FireBellyBox_Grayed_mesh
+    400004: //RootNode
+    400006: Headquarters_Grayed_mesh
+    400008: ShootinRange_Grayed_mesh
+    400010: Swamp_Grayed_mesh
+    400012: Warehouse_Grayed_mesh
+    400014: WeaponsLab_Grayed_mesh
+    2300000: Cabin_Grayed_mesh
+    2300002: FireBellyBox_Grayed_mesh
+    2300004: Headquarters_Grayed_mesh
+    2300006: ShootinRange_Grayed_mesh
+    2300008: Swamp_Grayed_mesh
+    2300010: Warehouse_Grayed_mesh
+    2300012: WeaponsLab_Grayed_mesh
+    3300000: Cabin_Grayed_mesh
+    3300002: FireBellyBox_Grayed_mesh
+    3300004: Headquarters_Grayed_mesh
+    3300006: ShootinRange_Grayed_mesh
+    3300008: Swamp_Grayed_mesh
+    3300010: Warehouse_Grayed_mesh
+    3300012: WeaponsLab_Grayed_mesh
+    4300000: ShootinRange_Grayed_mesh
+    4300002: Cabin_Grayed_mesh
+    4300004: Warehouse_Grayed_mesh
+    4300006: WeaponsLab_Grayed_mesh
+    4300008: Headquarters_Grayed_mesh
+    4300010: FireBellyBox_Grayed_mesh
+    4300012: Swamp_Grayed_mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

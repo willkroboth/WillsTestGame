@@ -1,0 +1,38 @@
+Release Notes - P3 Sample Application
+
+0.8:
+- Added Sample Module Driver VS project
+- Added Simple Diagnostics Unity project to help create and simulate module features in diagnostics
+- Reworked module driver documentation based on above additions
+- Refactored SDK zip file
+- Enabled new framework replay feature (Added example setting overrides in P3SASettingsMode.cs, but didn't add local handling of an achieved replay)
+- Added LED simulation support (select Display8 in Unity)
+- Fixed a playlist bug in P3SAAudio.cs
+- Added Multimorphic prefixes to some logging messages to avoid a compiler error after renaming the project to a non-Multimorphic company
+- Removed odd numbered trough entries from the default sim states dictionary
+- Changed high score entry buttons so 'start' is exit/back and 'launch' is select.
+- Commented out instantiation of inlane/outlane transition prefabs in LanesManager, as those prefabs aren't part of the SDK
+- Enable BumpersMode by default
+- Changed HomeMode's drain event handler to call EndOfBall, which posts Evt_BallEnded, instead of directly calling End(), which is intended to be called only when the mode is stopped.  This allows the programmer to do other things as a result of EndOfBall but before stopping HomeMode.
+- Added BaseGameMode option to show end of ball bonus even if tilt is active
+- Added Chase Ball enable to optionally disable chase balls from ball search (useful in tournaments)
+
+0.6:
+
+- Added Twitch-Connect functionality
+-- Example viewer commands:
+--- score:x (free)
+--- blackout (paid if affiliate setting is enabled)
+--- reverse (paid if affiliate setting is enabled)
+--- invert (paid if affiliate setting is enabled)
+- Added credits.cs script for easy display of credit information on-screen. Applied it to the ApronDisplay in Attract scene.
+- Added more documentation for Credit handling (events to GUI for sounds and graphics).  
+- BallPaths defined in module driver with entry/exit events, types, entry/led LED lists, coordinates
+- Added example for reference TroughLauncher coordinates
+- Added example Servo, Stepper, and BallPath definitions to the playfield module config file documentation.
+
+0.5: 
+
+- Updated code and libraries to reflect Heist updates.
+- Added feature menu with support for profile features and bluetooth speakers
+- Reworked menus to have a common but basic look and feel.

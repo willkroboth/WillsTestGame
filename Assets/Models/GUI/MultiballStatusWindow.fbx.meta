@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: bb66d77f45cec2545ac9cf428b36c7c5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AgentIcon_mesh
+    100002: AgentIconOcto01_mesh
+    100004: AgentIconOcto_02_mesh
+    100006: AgentIconOcto_03_mesh
+    100008: BallCountMultiplierBoxes_mesh
+    100010: JackpotValueBox_mesh
+    100012: JackpotValueValueBox_mesh
+    100014: MultiballProgressOctocExtension_mesh
+    100016: //RootNode
+    100018: MultibalProgressStatusBar_mesh
+    100020: MultibalProgressStatusGlass_mesh
+    100022: Root
+    100024: StatusInfoValueBoxes_mesh
+    100026: Tip
+    100028: TotalMultiballScoreBox_mesh
+    100030: TotalTitleBox_mesh
+    100032: TotalTitleBoxFlange_01_mesh
+    100034: TotalTitleBoxFlange_02_mesh
+    100036: TotalTitleBoxFlange_03_mesh
+    100038: TotalTitleBoxFlange_04_mesh
+    100040: TotalTitleBoxFlange_05_mesh
+    100042: TotalTitleBoxFlange_06_mesh
+    100044: TotalTitleBoxFlange_07_mesh
+    100046: TotalTitleBoxFlange_08_mesh
+    100048: MultibalProgressStatusGlassNumbers_mesh
+    100050: BallCountTitle_mesh
+    100052: JackpotValueTitleBox_mesh
+    100054: MultiballProgressOctocExtensionText_mesh
+    100056: MultiplierTitle_mesh
+    100058: TotalTitle_mesh
+    100060: Inner_mesh
+    100062: Inner_mesh 1
+    100064: Inner_mesh 2
+    100066: Inner_mesh 3
+    100068: Inner_mesh 4
+    100070: Inner_mesh 5
+    100072: Inner_mesh 6
+    100074: Inner_mesh 7
+    100076: Outter_mesh
+    100078: Outter_mesh 1
+    100080: Outter_mesh 2
+    100082: Outter_mesh 3
+    100084: Outter_mesh 4
+    100086: Outter_mesh 5
+    100088: Outter_mesh 6
+    100090: Outter_mesh 7
+    100092: AgentIconOcto_01_mesh
+    100094: Inner_mesh 8
+    100096: Outter_mesh 8
+    100098: AgentIconOcto_03_Inner_mesh
+    100100: AgentIconOcto_03_Outter_mesh
+    100102: TotalTitleBoxFlange_01_Inner_mesh
+    100104: TotalTitleBoxFlange_01_Outter_mesh
+    100106: TotalTitleBoxFlange_02_Inner_mesh
+    100108: TotalTitleBoxFlange_02_Outter_mesh
+    100110: TotalTitleBoxFlange_03_Inner_mesh
+    100112: TotalTitleBoxFlange_03_Outter_mesh
+    100114: TotalTitleBoxFlange_04_Inner_mesh
+    100116: TotalTitleBoxFlange_04_Outter_mesh
+    100118: TotalTitleBoxFlange_05_Inner_mesh
+    100120: TotalTitleBoxFlange_05_Outter_mesh
+    100122: TotalTitleBoxFlange_06_Inner_mesh
+    100124: TotalTitleBoxFlange_06_Outter_mesh
+    100126: TotalTitleBoxFlange_07_Inner_mesh
+    100128: TotalTitleBoxFlange_07_Outter_mesh
+    100130: TotalTitleBoxFlange_08_Inner_mesh
+    100132: TotalTitleBoxFlange_08_Outter_mesh
+    100134: AgentIconOcto_01_Inner_mesh
+    100136: AgentIconOcto_01_Outter_mesh
+    100138: AgentIconOcto_02_Inner_mesh
+    100140: AgentIconOcto_02_Outter_mesh
+    100142: JackpotTitle_mesh
+    400000: AgentIcon_mesh
+    400002: AgentIconOcto01_mesh
+    400004: AgentIconOcto_02_mesh
+    400006: AgentIconOcto_03_mesh
+    400008: BallCountMultiplierBoxes_mesh
+    400010: JackpotValueBox_mesh
+    400012: JackpotValueValueBox_mesh
+    400014: MultiballProgressOctocExtension_mesh
+    400016: //RootNode
+    400018: MultibalProgressStatusBar_mesh
+    400020: MultibalProgressStatusGlass_mesh
+    400022: Root
+    400024: StatusInfoValueBoxes_mesh
+    400026: Tip
+    400028: TotalMultiballScoreBox_mesh
+    400030: TotalTitleBox_mesh
+    400032: TotalTitleBoxFlange_01_mesh
+    400034: TotalTitleBoxFlange_02_mesh
+    400036: TotalTitleBoxFlange_03_mesh
+    400038: TotalTitleBoxFlange_04_mesh
+    400040: TotalTitleBoxFlange_05_mesh
+    400042: TotalTitleBoxFlange_06_mesh
+    400044: TotalTitleBoxFlange_07_mesh
+    400046: TotalTitleBoxFlange_08_mesh
+    400048: MultibalProgressStatusGlassNumbers_mesh
+    400050: BallCountTitle_mesh
+    400052: JackpotValueTitleBox_mesh
+    400054: MultiballProgressOctocExtensionText_mesh
+    400056: MultiplierTitle_mesh
+    400058: TotalTitle_mesh
+    400060: Inner_mesh
+    400062: Inner_mesh 1
+    400064: Inner_mesh 2
+    400066: Inner_mesh 3
+    400068: Inner_mesh 4
+    400070: Inner_mesh 5
+    400072: Inner_mesh 6
+    400074: Inner_mesh 7
+    400076: Outter_mesh
+    400078: Outter_mesh 1
+    400080: Outter_mesh 2
+    400082: Outter_mesh 3
+    400084: Outter_mesh 4
+    400086: Outter_mesh 5
+    400088: Outter_mesh 6
+    400090: Outter_mesh 7
+    400092: AgentIconOcto_01_mesh
+    400094: Inner_mesh 8
+    400096: Outter_mesh 8
+    400098: AgentIconOcto_03_Inner_mesh
+    400100: AgentIconOcto_03_Outter_mesh
+    400102: TotalTitleBoxFlange_01_Inner_mesh
+    400104: TotalTitleBoxFlange_01_Outter_mesh
+    400106: TotalTitleBoxFlange_02_Inner_mesh
+    400108: TotalTitleBoxFlange_02_Outter_mesh
+    400110: TotalTitleBoxFlange_03_Inner_mesh
+    400112: TotalTitleBoxFlange_03_Outter_mesh
+    400114: TotalTitleBoxFlange_04_Inner_mesh
+    400116: TotalTitleBoxFlange_04_Outter_mesh
+    400118: TotalTitleBoxFlange_05_Inner_mesh
+    400120: TotalTitleBoxFlange_05_Outter_mesh
+    400122: TotalTitleBoxFlange_06_Inner_mesh
+    400124: TotalTitleBoxFlange_06_Outter_mesh
+    400126: TotalTitleBoxFlange_07_Inner_mesh
+    400128: TotalTitleBoxFlange_07_Outter_mesh
+    400130: TotalTitleBoxFlange_08_Inner_mesh
+    400132: TotalTitleBoxFlange_08_Outter_mesh
+    400134: AgentIconOcto_01_Inner_mesh
+    400136: AgentIconOcto_01_Outter_mesh
+    400138: AgentIconOcto_02_Inner_mesh
+    400140: AgentIconOcto_02_Outter_mesh
+    400142: JackpotTitle_mesh
+    2300000: AgentIcon_mesh
+    2300002: AgentIconOcto01_mesh
+    2300004: AgentIconOcto_02_mesh
+    2300006: AgentIconOcto_03_mesh
+    2300008: BallCountMultiplierBoxes_mesh
+    2300010: JackpotValueBox_mesh
+    2300012: JackpotValueValueBox_mesh
+    2300014: MultiballProgressOctocExtension_mesh
+    2300016: MultibalProgressStatusGlass_mesh
+    2300018: StatusInfoValueBoxes_mesh
+    2300020: TotalMultiballScoreBox_mesh
+    2300022: TotalTitleBox_mesh
+    2300024: TotalTitleBoxFlange_01_mesh
+    2300026: TotalTitleBoxFlange_02_mesh
+    2300028: TotalTitleBoxFlange_03_mesh
+    2300030: TotalTitleBoxFlange_04_mesh
+    2300032: TotalTitleBoxFlange_05_mesh
+    2300034: TotalTitleBoxFlange_06_mesh
+    2300036: TotalTitleBoxFlange_07_mesh
+    2300038: TotalTitleBoxFlange_08_mesh
+    2300040: MultibalProgressStatusGlassNumbers_mesh
+    2300042: BallCountTitle_mesh
+    2300044: JackpotValueTitleBox_mesh
+    2300046: MultiballProgressOctocExtensionText_mesh
+    2300048: MultiplierTitle_mesh
+    2300050: TotalTitle_mesh
+    2300052: Inner_mesh
+    2300054: Inner_mesh 1
+    2300056: Inner_mesh 2
+    2300058: Inner_mesh 3
+    2300060: Inner_mesh 4
+    2300062: Inner_mesh 5
+    2300064: Inner_mesh 6
+    2300066: Inner_mesh 7
+    2300068: Outter_mesh
+    2300070: Outter_mesh 1
+    2300072: Outter_mesh 2
+    2300074: Outter_mesh 3
+    2300076: Outter_mesh 4
+    2300078: Outter_mesh 5
+    2300080: Outter_mesh 6
+    2300082: Outter_mesh 7
+    2300084: AgentIconOcto_01_mesh
+    2300086: Inner_mesh 8
+    2300088: Outter_mesh 8
+    2300090: AgentIconOcto_03_Inner_mesh
+    2300092: AgentIconOcto_03_Outter_mesh
+    2300094: TotalTitleBoxFlange_01_Inner_mesh
+    2300096: TotalTitleBoxFlange_01_Outter_mesh
+    2300098: TotalTitleBoxFlange_02_Inner_mesh
+    2300100: TotalTitleBoxFlange_02_Outter_mesh
+    2300102: TotalTitleBoxFlange_03_Inner_mesh
+    2300104: TotalTitleBoxFlange_03_Outter_mesh
+    2300106: TotalTitleBoxFlange_04_Inner_mesh
+    2300108: TotalTitleBoxFlange_04_Outter_mesh
+    2300110: TotalTitleBoxFlange_05_Inner_mesh
+    2300112: TotalTitleBoxFlange_05_Outter_mesh
+    2300114: TotalTitleBoxFlange_06_Inner_mesh
+    2300116: TotalTitleBoxFlange_06_Outter_mesh
+    2300118: TotalTitleBoxFlange_07_Inner_mesh
+    2300120: TotalTitleBoxFlange_07_Outter_mesh
+    2300122: TotalTitleBoxFlange_08_Inner_mesh
+    2300124: TotalTitleBoxFlange_08_Outter_mesh
+    2300126: AgentIconOcto_01_Inner_mesh
+    2300128: AgentIconOcto_01_Outter_mesh
+    2300130: AgentIconOcto_02_Inner_mesh
+    2300132: AgentIconOcto_02_Outter_mesh
+    2300134: JackpotTitle_mesh
+    3300000: AgentIcon_mesh
+    3300002: AgentIconOcto01_mesh
+    3300004: AgentIconOcto_02_mesh
+    3300006: AgentIconOcto_03_mesh
+    3300008: BallCountMultiplierBoxes_mesh
+    3300010: JackpotValueBox_mesh
+    3300012: JackpotValueValueBox_mesh
+    3300014: MultiballProgressOctocExtension_mesh
+    3300016: MultibalProgressStatusGlass_mesh
+    3300018: StatusInfoValueBoxes_mesh
+    3300020: TotalMultiballScoreBox_mesh
+    3300022: TotalTitleBox_mesh
+    3300024: TotalTitleBoxFlange_01_mesh
+    3300026: TotalTitleBoxFlange_02_mesh
+    3300028: TotalTitleBoxFlange_03_mesh
+    3300030: TotalTitleBoxFlange_04_mesh
+    3300032: TotalTitleBoxFlange_05_mesh
+    3300034: TotalTitleBoxFlange_06_mesh
+    3300036: TotalTitleBoxFlange_07_mesh
+    3300038: TotalTitleBoxFlange_08_mesh
+    3300040: MultibalProgressStatusGlassNumbers_mesh
+    3300042: BallCountTitle_mesh
+    3300044: JackpotValueTitleBox_mesh
+    3300046: MultiballProgressOctocExtensionText_mesh
+    3300048: MultiplierTitle_mesh
+    3300050: TotalTitle_mesh
+    3300052: Inner_mesh
+    3300054: Inner_mesh 1
+    3300056: Inner_mesh 2
+    3300058: Inner_mesh 3
+    3300060: Inner_mesh 4
+    3300062: Inner_mesh 5
+    3300064: Inner_mesh 6
+    3300066: Inner_mesh 7
+    3300068: Outter_mesh
+    3300070: Outter_mesh 1
+    3300072: Outter_mesh 2
+    3300074: Outter_mesh 3
+    3300076: Outter_mesh 4
+    3300078: Outter_mesh 5
+    3300080: Outter_mesh 6
+    3300082: Outter_mesh 7
+    3300084: AgentIconOcto_01_mesh
+    3300086: Inner_mesh 8
+    3300088: Outter_mesh 8
+    3300090: AgentIconOcto_03_Inner_mesh
+    3300092: AgentIconOcto_03_Outter_mesh
+    3300094: TotalTitleBoxFlange_01_Inner_mesh
+    3300096: TotalTitleBoxFlange_01_Outter_mesh
+    3300098: TotalTitleBoxFlange_02_Inner_mesh
+    3300100: TotalTitleBoxFlange_02_Outter_mesh
+    3300102: TotalTitleBoxFlange_03_Inner_mesh
+    3300104: TotalTitleBoxFlange_03_Outter_mesh
+    3300106: TotalTitleBoxFlange_04_Inner_mesh
+    3300108: TotalTitleBoxFlange_04_Outter_mesh
+    3300110: TotalTitleBoxFlange_05_Inner_mesh
+    3300112: TotalTitleBoxFlange_05_Outter_mesh
+    3300114: TotalTitleBoxFlange_06_Inner_mesh
+    3300116: TotalTitleBoxFlange_06_Outter_mesh
+    3300118: TotalTitleBoxFlange_07_Inner_mesh
+    3300120: TotalTitleBoxFlange_07_Outter_mesh
+    3300122: TotalTitleBoxFlange_08_Inner_mesh
+    3300124: TotalTitleBoxFlange_08_Outter_mesh
+    3300126: AgentIconOcto_01_Inner_mesh
+    3300128: AgentIconOcto_01_Outter_mesh
+    3300130: AgentIconOcto_02_Inner_mesh
+    3300132: AgentIconOcto_02_Outter_mesh
+    3300134: JackpotTitle_mesh
+    4300000: AgentIcon_mesh
+    4300002: AgentIconOcto_03_mesh
+    4300004: AgentIconOcto_02_mesh
+    4300006: AgentIconOcto01_mesh
+    4300008: MultibalProgressStatusGlass_mesh
+    4300010: MultibalProgressStatusBar_mesh
+    4300012: MultiballProgressOctocExtension_mesh
+    4300014: JackpotValueBox_mesh
+    4300016: BallCountMultiplierBoxes_mesh
+    4300018: JackpotValueValueBox_mesh
+    4300020: StatusInfoValueBoxes_mesh
+    4300022: TotalTitleBox_mesh
+    4300024: TotalTitleBoxFlange_01_mesh
+    4300026: TotalTitleBoxFlange_02_mesh
+    4300028: TotalTitleBoxFlange_03_mesh
+    4300030: TotalTitleBoxFlange_04_mesh
+    4300032: TotalTitleBoxFlange_05_mesh
+    4300034: TotalTitleBoxFlange_06_mesh
+    4300036: TotalTitleBoxFlange_07_mesh
+    4300038: TotalTitleBoxFlange_08_mesh
+    4300040: TotalMultiballScoreBox_mesh
+    4300042: MultibalProgressStatusGlassNumbers_mesh
+    4300044: MultiballProgressOctocExtensionText_mesh
+    4300046: JackpotValueTitleBox_mesh
+    4300048: MultiplierTitle_mesh
+    4300050: BallCountTitle_mesh
+    4300052: TotalTitle_mesh
+    4300054: Outter_mesh
+    4300056: Inner_mesh
+    4300058: Outter_mesh
+    4300060: Inner_mesh
+    4300062: Outter_mesh
+    4300064: Inner_mesh
+    4300066: Outter_mesh
+    4300068: Inner_mesh
+    4300070: Outter_mesh
+    4300072: Inner_mesh
+    4300074: Outter_mesh
+    4300076: Inner_mesh
+    4300078: Outter_mesh
+    4300080: Inner_mesh
+    4300082: Outter_mesh
+    4300084: Inner_mesh
+    4300086: AgentIconOcto_01_mesh
+    4300088: Outter_mesh
+    4300090: Inner_mesh
+    4300092: AgentIconOcto_03_Outter_mesh
+    4300094: AgentIconOcto_03_Inner_mesh
+    4300096: TotalTitleBoxFlange_01_Outter_mesh
+    4300098: TotalTitleBoxFlange_01_Inner_mesh
+    4300100: TotalTitleBoxFlange_02_Outter_mesh
+    4300102: TotalTitleBoxFlange_02_Inner_mesh
+    4300104: TotalTitleBoxFlange_03_Outter_mesh
+    4300106: TotalTitleBoxFlange_03_Inner_mesh
+    4300108: TotalTitleBoxFlange_04_Outter_mesh
+    4300110: TotalTitleBoxFlange_04_Inner_mesh
+    4300112: TotalTitleBoxFlange_05_Outter_mesh
+    4300114: TotalTitleBoxFlange_05_Inner_mesh
+    4300116: TotalTitleBoxFlange_06_Outter_mesh
+    4300118: TotalTitleBoxFlange_06_Inner_mesh
+    4300120: TotalTitleBoxFlange_07_Outter_mesh
+    4300122: TotalTitleBoxFlange_07_Inner_mesh
+    4300124: TotalTitleBoxFlange_08_Outter_mesh
+    4300126: TotalTitleBoxFlange_08_Inner_mesh
+    4300128: AgentIconOcto_02_Outter_mesh
+    4300130: AgentIconOcto_02_Inner_mesh
+    4300132: AgentIconOcto_01_Inner_mesh
+    4300134: AgentIconOcto_01_Outter_mesh
+    4300136: JackpotTitle_mesh
+    9500000: //RootNode
+    13700000: MultibalProgressStatusBar_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

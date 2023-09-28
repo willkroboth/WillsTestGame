@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: 25daf0b7aa31e424faa72d586343cbad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DYN_Collect_mesh
+    100002: DYN_Destroy_mesh
+    100004: DYN_Gather_mesh
+    100006: //RootNode
+    100008: DYN_Open_mesh
+    100010: DYN_Shoot_mesh
+    100012: DYN_Hit_mesh
+    400000: DYN_Collect_mesh
+    400002: DYN_Destroy_mesh
+    400004: DYN_Gather_mesh
+    400006: //RootNode
+    400008: DYN_Open_mesh
+    400010: DYN_Shoot_mesh
+    400012: DYN_Hit_mesh
+    2300000: DYN_Collect_mesh
+    2300002: DYN_Destroy_mesh
+    2300004: DYN_Gather_mesh
+    2300006: DYN_Open_mesh
+    2300008: DYN_Shoot_mesh
+    2300010: DYN_Hit_mesh
+    3300000: DYN_Collect_mesh
+    3300002: DYN_Destroy_mesh
+    3300004: DYN_Gather_mesh
+    3300006: DYN_Open_mesh
+    3300008: DYN_Shoot_mesh
+    3300010: DYN_Hit_mesh
+    4300000: DYN_Open_mesh
+    4300002: DYN_Destroy_mesh
+    4300004: DYN_Shoot_mesh
+    4300006: DYN_Collect_mesh
+    4300008: DYN_Gather_mesh
+    4300010: DYN_Hit_mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
